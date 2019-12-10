@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#
+Thumbs.db
+Thumbs.db:encryptable
+.xlxs#
+.png
+output/
+.~lock*
